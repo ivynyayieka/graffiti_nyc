@@ -9,11 +9,11 @@ I used two major sets of data
 
 I also pulled viewership numbers from the [wikihow page on viewing graffiti at Riverside Park](https://www.wikihow.com/Get-to-the-Freedom-Tunnel).
 
-# How I analysed graffiti complaints bounce back in 2022 after pandemic's peak in NYC at more than double the complaints in 2021
+### How I analysed graffiti complaints bounce back in 2022 after pandemic's peak in NYC at more than double the complaints in 2021
 
 I pulled all graffiti-related complaints from 311 data, then grouped the data by location and year. I also looked at the addresses appearing most frequently.
 
-# How I made the analysis on graffiti cleaning is taking up more park workers' times with a 40% increase in the last full year
+### How I made the analysis on graffiti cleaning is taking up more park workers' times with a 40% increase in the last full year
 
 I pulled data on daily NYC government tasks and filtered all where graffiti was involved. 
 
