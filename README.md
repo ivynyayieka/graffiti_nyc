@@ -1,4 +1,4 @@
-# NYC parks are battling graffiti vandals after the pandemic
+# [NYC parks are battling graffiti's comeback after the pandemic](https://ivynyayieka.github.io/graffiti_nyc/)
 For this project, I analysed data related to graffiti in NYC and 
 
 # Getting the data
