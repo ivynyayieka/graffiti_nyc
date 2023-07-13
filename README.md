@@ -1,5 +1,5 @@
 # [NYC parks are battling graffiti's comeback after the pandemic](https://ivynyayieka.github.io/graffiti_nyc/)
-For this project, I analysed data related to graffiti in NYC and 
+For this project, I analysed data related to graffiti in NYC and spoke to residents and workers to understand trends. [Read the full story here.](https://ivynyayieka.github.io/graffiti_nyc/)
 
 # Getting the data
 
